@@ -1,0 +1,16 @@
+{
+    "name": "petenelson/baconmockup-block",
+    "description": "WordPress Gutenberg block for Bacon Mockup placeholder images",
+    "type": "wordpress-plugin",
+    "license": "GPL2+",
+    "authors": [
+        {
+            "name": "Pete Nelson",
+            "email": "pete@petenelson.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "10up/phpcs-composer": "dev-master"
+    }
+}
