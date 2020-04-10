@@ -1,3 +1,6 @@
-.baconmockup-block {
-	background: #f00;
+.baconmockup-block-editor-panel {
+
+	& .predefined-sizes {
+		margin-bottom: 1em;
+	}
 }
